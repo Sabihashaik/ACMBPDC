@@ -1,0 +1,123 @@
+body{
+	
+
+width: 100%;
+}
+
+.image{
+	/*border: 2px solid red;*/
+	margin-left:175px;
+	margin-top: 15px;
+	float:left;	
+}
+
+.logoimg{
+	height: 50px;
+
+}
+
+.bar{
+	text-align: center;
+	margin-right:500px;
+	margin-top: 25px;
+	float: right;
+
+	text-transform: uppercase;
+
+
+}
+
+.bar2{
+	text-align: right;
+	float: right;
+	margin-top: 25px;
+	letter-spacing: 1px;
+	font-family: 'Source Sans Pro', sans-serif; 
+
+	text-transform: uppercase;
+}
+.bar3{
+	text-align: right;
+	float: right;
+	margin-top: 25px;
+	font-family: 'Source Sans Pro', sans-serif; 
+
+	
+
+}	
+
+
+a:link{
+	color: #8d8daa;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: 'Source Sans Pro', sans-serif; 
+	letter-spacing: 1px;
+	
+}
+a:visited{
+	color: #8d8daa;
+	font-size: 15px;
+	font-family: 'Source Sans Pro', sans-serif; 
+	letter-spacing: 1px;
+
+}
+a:hover{
+	color: #d4d4d6;
+
+}
+
+.masthead{
+	height: 520px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.heade{
+	padding-top: 250px;
+	margin-left: 8%;
+	color:white;
+}
+
+.heade2{
+	margin-left: 8%;
+}
+
+.el{
+	width: 260px;
+	margin-left: 7.5%;
+	color: #8d8daa;
+	border: 2px solid #039BE5;
+  	border-radius: 30px;
+  	font-size: 12px;
+  	text-align: center;
+}
+
+.buy{
+	width: 260px;
+	height: 40px;
+	margin-left: 7.5%;
+	background-color: #FFCA00;
+	border: 2px solid #979797;
+  	border-radius: 30px;
+  	font-size: 12px;
+
+	font-weight: 700;
+  	text-transform: uppercase;
+  	text-align: center;
+}
+
+.buy:hover{
+
+    background: #cca200;
+    color: black;
+    cursor: pointer;
+  
+}
+.pos{
+
+	height:100px;
+	width:100px;
+	margin-top: 100px;
+
+}
